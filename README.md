@@ -7,7 +7,12 @@ This is a simple e-commerce frontend project built using **React.js** that conne
 ## 🚀 Features
 
 ### ✅ 1. Login Page
-- Form with **username** and **password**
+- Form with username **mor_2314** and password **83r5^_**
+- {
+  "username": "mor_2314",
+  "password": "83r5^_"
+}
+
 - Authenticates using `POST /auth/login` endpoint from Fake Store API
 - JWT token is stored in `localStorage`
 - On successful login, user is redirected to the **Product Listing (Home)** page
